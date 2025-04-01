@@ -88,7 +88,7 @@ connection {
     type        = "ssh"
     host        = self.public_ip
     user        = "ubuntu"
-    private_key = file("/Users/jesusoctavioacostasantos/git/infra/terra/datadog/datadog2.pem")
+    private_key = file("/Users/ /git/infra/terra/datadog/datadog2.pem")
   }
 
 
